@@ -1,0 +1,9 @@
+Clientele Featureset
+==================================
+-view project as it's being worked on
+-email client when a change has occured
+-Allow client to easily communiate with dev team by:
+	-Posting pictures
+	-drawing on screenshots of site
+	-
+
